@@ -1,0 +1,3 @@
+udev,953M,0,953M,0,/dev,2022-10-02 13:37:28,192.168.1.8,abdeali.local
+/dev/mapper/ubuntu--vg-ubuntu--lv,8.9G,5.8G,2.7G,69,/,2022-10-02 13:37:28,192.168.1.8,abdeali.local
+/dev/sda2,875M,149M,665M,19,/boot,2022-10-02 13:37:28,192.168.1.8,abdeali.local
